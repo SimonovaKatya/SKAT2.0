@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f218438f-0443-4058-addc-2873d415981b" name="Default Changelist" comment="" />
+    <list default="true" id="f218438f-0443-4058-addc-2873d415981b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/grey.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/carousel/grey.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/grey3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/carousel/grey3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/greylight.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/carousel/greylight.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/people.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/birthday/people.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/sea1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/news/sea1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/sea2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/news/sea2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/image/sea3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/image/news/sea3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +46,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iO7SCxZCL60uX0mB04hlgmFUHR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,7 +58,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/image" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -37,11 +70,16 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\SKAT2.0\image" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SKAT2.0\image\birthday" />
+      <recent name="D:\SKAT2.0\image\news" />
+      <recent name="D:\SKAT2.0\image\carousel" />
       <recent name="D:\SKAT2.0" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SKAT2.0" />
+      <recent name="D:\SKAT2.0\image\carousel" />
+      <recent name="D:\SKAT2.0\image" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -53,18 +91,30 @@
       <option name="presentableId" value="Default" />
       <updated>1601766781918</updated>
       <workItem from="1601766783009" duration="4166000" />
-      <workItem from="1601992024470" duration="8394000" />
+      <workItem from="1601992024470" duration="8806000" />
+      <workItem from="1602024236469" duration="3901000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1602018585041">
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1602027084779">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1602018585041" />
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1602027084779" />
     <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1601766959218" />
   </component>
 </project>
