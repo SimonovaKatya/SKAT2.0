@@ -3,6 +3,7 @@ html, body {
 }
 
 .labelCenter{
+    margin: 1rem;
     display:flex;
     justify-content:center;
     align-items:center;
@@ -11,4 +12,27 @@ html, body {
 }
 #carouselExampleCaptions img{
     height: 250px;
+    object-fit:cover;
+    width:100%;
+}
+
+.card{
+    line-height: 1rem;
+    background: lightskyblue;
+    margin: 3rem 0;
+}
+
+.portfolio img{
+    padding: 3rem;
+}
+
+@media (min-width: 992px) {
+    .page-section .page-section-heading {
+        font-size: 3rem;
+        line-height: 2.5rem
+    }
+}
+
+.jumbotron {
+    margin-top: 2rem;
 }

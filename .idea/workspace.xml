@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f218438f-0443-4058-addc-2873d415981b" name="Default Changelist" comment="" />
+    <list default="true" id="f218438f-0443-4058-addc-2873d415981b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +50,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/image/carousel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/image" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -65,9 +69,9 @@
       <recent name="D:\SKAT2.0" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SKAT2.0\image" />
       <recent name="D:\SKAT2.0\image\carousel" />
       <recent name="D:\SKAT2.0" />
-      <recent name="D:\SKAT2.0\image" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -80,7 +84,7 @@
       <updated>1601766781918</updated>
       <workItem from="1601766783009" duration="4166000" />
       <workItem from="1601992024470" duration="8806000" />
-      <workItem from="1602024236469" duration="6673000" />
+      <workItem from="1602024236469" duration="13065000" />
     </task>
     <task id="LOCAL-00001" summary="created the main blocks of the main page.&#10;wrapped cards in container class&#10;reduced the size of the cards for the carousel">
       <created>1602030878481</created>
@@ -103,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602037543111</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="changed the image&#10;increased margins from the edge">
+      <created>1602037760326</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602037760326</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,14 +141,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1602035113456" />
-    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1602027084779">
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1602143879967">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1602027084779" />
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1602143879967" />
     <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1601766959218" />
-    <state x="392" y="150" key="Vcs.Push.Dialog.v2" timestamp="1602037545022">
+    <state x="392" y="150" key="Vcs.Push.Dialog.v2" timestamp="1602037761771">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="150" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1602037545022" />
+    <state x="392" y="150" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1602037761771" />
   </component>
 </project>
