@@ -22,14 +22,6 @@
     <list default="true" id="f218438f-0443-4058-addc-2873d415981b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pages/AboutUs/Achievements/achievements.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/AboutUs/Achievements/achievements.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/AboutUs/History/history.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/AboutUs/History/history.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/AboutUs/OurProjects/OurProjects.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/AboutUs/OurProjects/OurProjects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/AboutUs/Reference/reference.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/AboutUs/Reference/reference.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/AboutUs/Section/section.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/AboutUs/Section/section.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/AboutUs/Сommand/command.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/AboutUs/Сommand/command.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/AboutUs/Сouncil/council.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/AboutUs/Сouncil/council.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/Home/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Home/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Home/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +51,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/image/history" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Pages/AboutUs/Achievements" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -72,6 +64,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SKAT2.0\Pages\AboutUs\Achievements" />
       <recent name="D:\SKAT2.0\image\history" />
       <recent name="D:\SKAT2.0\image" />
       <recent name="D:\SKAT2.0\image\carousel" />
@@ -96,7 +89,7 @@
       <workItem from="1601766783009" duration="4166000" />
       <workItem from="1601992024470" duration="8806000" />
       <workItem from="1602024236469" duration="15109000" />
-      <workItem from="1602836869999" duration="6414000" />
+      <workItem from="1602836869999" duration="7027000" />
     </task>
     <task id="LOCAL-00001" summary="created the main blocks of the main page.&#10;wrapped cards in container class&#10;reduced the size of the cards for the carousel">
       <created>1602030878481</created>
@@ -140,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602838716430</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Created the History page&#10;Added headar in the rest of the files&#10;Created css files&#10;Added pictures">
+      <created>1602843505424</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602843505424</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,7 +163,8 @@
     <MESSAGE value="changed the image&#10;increased margins from the edge" />
     <MESSAGE value="Added contact information and added partners.&#10;Adaptability needs to be added." />
     <MESSAGE value="Created folders and files for further work&#10;Create the &quot;about us&quot; page block&#10;history&#10;achievements&#10;reference&#10;club council&#10;Our projects&#10;command" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created folders and files for further work&#10;Create the &quot;about us&quot; page block&#10;history&#10;achievements&#10;reference&#10;club council&#10;Our projects&#10;command" />
+    <MESSAGE value="Created the History page&#10;Added headar in the rest of the files&#10;Created css files&#10;Added pictures" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created the History page&#10;Added headar in the rest of the files&#10;Created css files&#10;Added pictures" />
   </component>
   <component name="WindowStateProjectService">
     <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602035113456">
@@ -175,10 +176,10 @@
     </state>
     <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1602143879967" />
     <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1601766959218" />
-    <state x="392" y="150" key="Vcs.Push.Dialog.v2" timestamp="1602838718972">
+    <state x="392" y="150" key="Vcs.Push.Dialog.v2" timestamp="1602843506999">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="150" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1602838718972" />
+    <state x="392" y="150" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1602843506999" />
     <state x="507" y="29" width="585" height="801" key="find.popup" timestamp="1602839486218">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
