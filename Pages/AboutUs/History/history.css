@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+}
+
+.headerSecondLevel{
+    padding-top: 1rem;
+}
+
+#carouselExampleCaptions img{
+    height: 350px;
+    object-fit:cover;
+    width:100%;
+}
+
+.HistoryText{
+    margin: 2rem 14rem;
+}
