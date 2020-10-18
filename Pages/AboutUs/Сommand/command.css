@@ -1,0 +1,23 @@
+html, body {
+    height: 100%;
+}
+
+.headerSecondLevel{
+    padding-top: 1rem;
+}
+
+.labelCenter{
+    margin: 3rem;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size: 30px;
+    font-weight:bold;
+}
+
+.card{
+    padding: 1rem;
+}
+footer{
+    margin-top: 2rem;
+}

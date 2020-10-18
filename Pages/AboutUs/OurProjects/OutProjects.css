@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.headerSecondLevel{
+    padding-top: 1rem;
+}
+
+.jumbotron{
+    margin: 2rem;
+    background: darksalmon;
+}
+footer{
+    margin-top: 9rem;
+}

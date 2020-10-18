@@ -21,7 +21,11 @@
   <component name="ChangeListManager">
     <list default="true" id="f218438f-0443-4058-addc-2873d415981b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/AboutUs/OurProjects/OurProjects.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/AboutUs/OurProjects/OurProjects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/AboutUs/Reference/reference.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/AboutUs/Reference/reference.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pages/AboutUs/Section/section.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/AboutUs/Section/section.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/AboutUs/Сommand/command.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/AboutUs/Сommand/command.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/AboutUs/Сouncil/council.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/AboutUs/Сouncil/council.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +55,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/image/section" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Pages/AboutUs/OurProjects" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -71,11 +75,11 @@
       <recent name="D:\SKAT2.0\Pages\AboutUs\Сommand" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SKAT2.0\Pages\AboutUs\OurProjects" />
+      <recent name="D:\SKAT2.0\Pages\AboutUs\Reference" />
+      <recent name="D:\SKAT2.0\Pages\AboutUs\Сommand" />
       <recent name="D:\SKAT2.0\image\section" />
       <recent name="D:\SKAT2.0\Pages\AboutUs\Section" />
-      <recent name="D:\SKAT2.0\Pages\AboutUs\Сouncil" />
-      <recent name="D:\SKAT2.0\image\achievements" />
-      <recent name="D:\SKAT2.0\Pages\AboutUs\Achievements" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -91,7 +95,7 @@
       <workItem from="1602024236469" duration="15109000" />
       <workItem from="1602836869999" duration="8776000" />
       <workItem from="1602850756895" duration="599000" />
-      <workItem from="1602995011845" duration="5547000" />
+      <workItem from="1602995011845" duration="11150000" />
     </task>
     <task id="LOCAL-00001" summary="created the main blocks of the main page.&#10;wrapped cards in container class&#10;reduced the size of the cards for the carousel">
       <created>1602030878481</created>
@@ -156,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602850703032</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Made up the section page.&#10;There are plans to add mouse hover animations">
+      <created>1603000635313</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603000635313</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +193,8 @@
     <MESSAGE value="Created the History page&#10;Added headar in the rest of the files&#10;Created css files&#10;Added pictures" />
     <MESSAGE value="Created an achievement page&#10;This page looks like an interrupting one, so I copied and pasted many points" />
     <MESSAGE value=" created a club council page&#10; used a card component&#10; in the future, the cards will display photos of the club council and descriptions of who is depicted on them" />
-    <option name="LAST_COMMIT_MESSAGE" value=" created a club council page&#10; used a card component&#10; in the future, the cards will display photos of the club council and descriptions of who is depicted on them" />
+    <MESSAGE value="Made up the section page.&#10;There are plans to add mouse hover animations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made up the section page.&#10;There are plans to add mouse hover animations" />
   </component>
   <component name="WindowStateProjectService">
     <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602035113456">
@@ -194,10 +206,10 @@
     </state>
     <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1602998251013" />
     <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1601766959218" />
-    <state x="392" y="150" key="Vcs.Push.Dialog.v2" timestamp="1602850705100">
+    <state x="392" y="150" key="Vcs.Push.Dialog.v2" timestamp="1603000636910">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="150" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1602850705100" />
+    <state x="392" y="150" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1920.1040@0.0.1600.860" timestamp="1603000636910" />
     <state x="507" y="29" width="585" height="801" key="find.popup" timestamp="1602839486218">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
